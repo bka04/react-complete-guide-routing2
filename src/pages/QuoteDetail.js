@@ -5,7 +5,7 @@ import HighlightedQuote from '../components/quotes/HighlightedQuote';
 
 const DUMMY_QUOTES = [
   {id: 'q1', author: 'Max', text: 'Learning React is fun!'},
-  {id: 'q2', author: 'Max', text: 'Learning React is fun!'},
+  {id: 'q2', author: 'Maximillian', text: 'Learning React is great!'},
 ]
 
 
